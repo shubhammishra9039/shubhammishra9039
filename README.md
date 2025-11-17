@@ -1,7 +1,19 @@
-<h1 align="center">Hi 👋, I'm Shubham Mishra</h1>
-<h3 align="center">A passionate Software Engineer</h3>
-<img align="right" alt="Coding" width="375" src="https://github.com/shubhammishra9039/shubhammishra9039/blob/main/img.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhammishra9039&label=Profile%20views&color=0e75b6&style=flat" alt="shubhammishra9039" /> </p>
+<!-- HEADER -->
+<h1 align="center">👋 Hi, I'm <span style="color:#4F46E5;">Shubham Mishra</span></h1>
+<h3 align="center"> Software Engineer | Full-Stack Developer | Tech Explorer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=4F46E5&size=24&center=true&vCenter=true&width=600&lines=Passionate+Software+Engineer;Full-Stack+Developer;Quick+Learner+%26+Problem+Solver;Always+Building+Useful+Products" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/shubhammishra9039/shubhammishra9039/blob/main/img.gif" width="420"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubhammishra9039&label=Profile+Views&color=blueviolet&style=flat-square" />
+</p>
+
 
 - 📫 How to reach me **shubhammishra02507@gmail.com**
 
