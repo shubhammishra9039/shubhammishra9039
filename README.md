@@ -56,7 +56,7 @@
   <tr>
     <td align="center">
       <img width="300"
-        src="https://streak-stats.demolab.com?user=shubhammishra9039&theme=shadow-green&hide_border=true&date_format=j%20M%5B%20Y%5D&v=3&card_height=300" />
+        src="https://streak-stats.demolab.com?user=shubhammishra9039&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&v=3&card_height=300" />
     </td>
     <td align="center">
       <img width="300"
