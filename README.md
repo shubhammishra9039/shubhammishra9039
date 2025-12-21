@@ -45,22 +45,39 @@
 
 ## 🛠️ Tech Stack  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,react,nodejs,express,ts,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,mongodb,react,nodejs,express,ts,git,github,linux" />
 </p>
+
 
 ---
 
 ## 📊 GitHub Stats  
 
 
-<p align="center">
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhammishra9039&" alt="shubhammishra9039" /></p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img width="300"
+        src="https://streak-stats.demolab.com?user=shubhammishra9039&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&v=3" />
+    </td>
+    <td align="center">
+      <img width="300"
+        src="https://github-readme-stats.vercel.app/api?username=shubhammishra9039&show_icons=true&hide_border=true" />
+    </td>
+    <td align="center">
+      <img width="300"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhammishra9039&layout=compact&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-</p>
+
+
 
 ---
 
 ## 🔥 Fun Fact  
-⭐ "I believe great products are built by combining **clean code**, **creative thinking**, and **deep curiosity**."
+⭐ "I believe great products are built by combining **clean code**, **creative thinking**, and **deep curiosity**." </br>
+⭐ I believe **performance**, **security**, and **maintainability** are just as important as **features**.
 
 ---
