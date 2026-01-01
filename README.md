@@ -1,5 +1,3 @@
-
-
 <!-- HEADER -->
 <h1 align="center">👋 Hi, I'm <span style="color:#4F46E5;">Shubham Mishra</span></h1>
 <h3 align="center">Software Engineer • Full-Stack Developer • Problem Solver</h3>
